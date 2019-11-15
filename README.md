@@ -30,10 +30,6 @@ This Hackathon challenge was created to resolve economic mobility in Charlotte. 
 * Concurrently - Used to run servers at the same time
 * Heroku - App deployment
 
-# Link to Heroku
-
-*
-
 # Authors
 * Christiam Hernandez
 * Connor Nicholson
